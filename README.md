@@ -17,15 +17,27 @@ My journey has been anything but linear, and I’m proud of the resilience and a
     </tr>
     <tr>
       <td><strong>Most Recent Project</strong></td>
-      <td> <img src="https://imgur.com/2kmBUNV.jpg" max-width="800"> <br> [Trials & Treasures](https://trialsandtreasures.netlify.app) <br> A Game within a homebrew Dungeons and Dragons module to simulate dungeon crawls</td>
+      <td> 
+        <img src="https://imgur.com/2kmBUNV.jpg" max-width="800"> <br> ![Trials & Treasures](https://trialsandtreasures.netlify.app) <br> 
+        <p>Trials & Treasures is a fast-paced mini-game designed to simulate dungeon crawls in any TTRPG campaign. It’s a modular system that integrates seamlessly into your campaign, providing randomized encounters, escalating challenges, and thematic puzzles. Perfect for when you need a compact, replayable dungeon experience!</p>
+        <p>
+          ## Features
+
+  - **Randomized Encounters**: Add dynamic variety with roll tables for traps, puzzles, combat, and treasures.
+  - **Skill Challenges**: Test players’ abilities with puzzles, exploration, and environmental hazards.
+  - **Time Pressure**: Introduce urgency with a countdown mechanic, adding tension as players race against time.
+  - **Escalating Difficulty**: Increase stakes as players delve deeper with additional hazards, reinforcements, or environmental dangers.
+  - **Flexible Design**: Adaptable to any setting or campaign theme.
+        </p>
+      </td>
     </tr>
     <tr>
       <td><strong>Small Business Project</strong></td>
-      <td> <img src="https://imgur.com/sSG0biy.jpg" max-width="800">  <br> [Sweet Adventures Club](https://sweetadventuresclub.netlify.app) <br> Creating a company called Sweet Adventures Club <br> A bakery specializing in cheesecake</td>
+      <td> <img src="https://imgur.com/sSG0biy.jpg" max-width="800">  <br> ![Sweet Adventures Club](https://sweetadventuresclub.netlify.app) <br> Creating a company called Sweet Adventures Club <br> A bakery specializing in cheesecake</td>
     </tr>
     <tr>
       <td><strong>App Project</strong></td>
-      <td> <img src="https://imgur.com/0KOMrBQ.jpg" max-width="800">  <br> [CLIP](https://clipapp.netlify.app) <br> A "Comprehensive Log In Program" to track time on and off the clock</td>
+      <td> <img src="https://imgur.com/0KOMrBQ.jpg" max-width="800">  <br> ![CLIP](https://clipapp.netlify.app) <br> A "Comprehensive Log In Program" to track time on and off the clock</td>
     </tr>
   </table>
 </div>
