@@ -55,7 +55,16 @@ My journey has been anything but linear, and I’m proud of the resilience and a
     </tr>
     <tr>
       <td><strong>App Project</strong></td>
-      <td> <img src="https://imgur.com/0KOMrBQ.jpg" max-width="800">  <br> ![CLIP](https://clipapp.netlify.app) <br> A "Comprehensive Log In Program" to track time on and off the clock</td>
+      <td> <img src="https://imgur.com/0KOMrBQ.jpg" max-width="800">  <br> 
+        You can find the program @ https://clipapp.netlify.app 
+        <br>
+        <p>**C.L.I.P** is a user-friendly application designed to streamline work tracking and productivity monitoring. It provides users with access to a secure dashboard where they can:
+
+- Track position posts worked throughout the week.
+- View daily, weekly, monthly, and annual productivity data.
+- Clock in/Clock out from a shared kiosk or personal device.
+- Track and send posts worked throughout the week for accurate record-keeping. </p>
+</td>
     </tr>
   </table>
 </div>
