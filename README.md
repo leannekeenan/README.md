@@ -18,7 +18,7 @@ My journey has been anything but linear, and I’m proud of the resilience and a
     <tr>
       <td><strong>Most Recent Project</strong></td>
       <td> 
-        <img src="https://imgur.com/2kmBUNV.jpg" max-width="800"> <br> ![Trials & Treasures](https://trialsandtreasures.netlify.app) <br> 
+        <img src="https://imgur.com/2kmBUNV.jpg" max-width="800"> <br> You can find the game @ https://trialsandtreasures.netlify.app <br> 
         <p>Trials & Treasures is a fast-paced mini-game designed to simulate dungeon crawls in any TTRPG campaign. It’s a modular system that integrates seamlessly into your campaign, providing randomized encounters, escalating challenges, and thematic puzzles. Perfect for when you need a compact, replayable dungeon experience!</p>
         <p>
           ## Features
