@@ -19,7 +19,7 @@ My journey has been anything but linear, and I’m proud of the resilience and a
       <td><strong>Most Recent Project</strong></td>
       <td> 
         <img src="https://imgur.com/2kmBUNV.jpg" max-width="800"> <br> You can find the game @ https://trialsandtreasures.netlify.app <br> 
-        <p>Trials & Treasures is a fast-paced mini-game designed to simulate dungeon crawls in any TTRPG campaign. It’s a modular system that integrates seamlessly into your campaign, providing randomized encounters, escalating challenges, and thematic puzzles. Perfect for when you need a compact, replayable dungeon experience!</p>
+        <p>**Trials & Treasures** is a fast-paced mini-game designed to simulate dungeon crawls in any TTRPG campaign. It’s a modular system that integrates seamlessly into your campaign, providing randomized encounters, escalating challenges, and thematic puzzles. Perfect for when you need a compact, replayable dungeon experience!</p>
         <p>
           ## Features
 
@@ -33,7 +33,25 @@ My journey has been anything but linear, and I’m proud of the resilience and a
     </tr>
     <tr>
       <td><strong>Small Business Project</strong></td>
-      <td> <img src="https://imgur.com/sSG0biy.jpg" max-width="800">  <br> ![Sweet Adventures Club](https://sweetadventuresclub.netlify.app) <br> Creating a company called Sweet Adventures Club <br> A bakery specializing in cheesecake</td>
+      <td> <img src="https://imgur.com/sSG0biy.jpg" max-width="800">  
+        <br>
+        You can find the site @ https://sweetadventuresclub.netlify.app
+        <br>
+        
+<p>
+  **Sweet Adventures Club** is an elegant website designed to showcase a cheesecake menu and provide a seamless way for customers to place orders via an integrated contact form. Perfect for small business owners, this project highlights clean design, responsive functionality, and a focus on user experience.
+</p>
+<p>
+  ## Features
+
+- **Menu Showcase**: A dedicated page that highlights cheesecake offerings with clear descriptions and pricing.
+- **Contact Form for Orders**: An intuitive email form that allows customers to place orders or ask questions directly from the website.
+- **Responsive Design**: Optimized for desktops, tablets, and mobile devices, ensuring a flawless experience on any screen size.
+- **Modern Aesthetic**: A sleek, professional layout that emphasizes simplicity and elegance.
+- **Customizable Framework**: Easily adaptable for other small business needs, such as cafes or bakeries.
+- </p>
+
+</td>
     </tr>
     <tr>
       <td><strong>App Project</strong></td>
